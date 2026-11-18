@@ -14,7 +14,7 @@ Ce dépôt contient des captures d'écran pour différentes parties du brief : L
 
 - `Activite_MCD_part1.png` : MCD appliqué au cas de la SPA.
 - `Activite_MLD_part2.png` : MLD de `Activite_MCD_part1.png`.
-- `Activite_newMCD_part3.png` : Mise à jour du MCD après l'ajout d enouevaux éléments.
+- `Activite_newMCD_part3.png` : Mise à jour du MCD après l'ajout de nouveaux éléments.
 - `Activite_newMLD_part3.png` : Mise à jour du MLD suivant `Activite_newMCD_part3.png`.
 
 # Problèmes rencontrés :
